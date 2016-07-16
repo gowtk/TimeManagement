@@ -24,9 +24,11 @@ public class AppFilter implements Filter {
 	}
 
 	public void init(FilterConfig filterConfig) {
+		System.out.println("init servlet");
 	}
 
 	public void destroy() {
+		System.out.println("destroy servlet");
 	}
 
 }
