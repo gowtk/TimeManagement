@@ -1,4 +1,4 @@
-package com.gowtham.arch;
+package com.gowtham.db;
 
 import org.mongodb.morphia.Datastore;
 import org.mongodb.morphia.Morphia;
